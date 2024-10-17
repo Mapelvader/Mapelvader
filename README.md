@@ -32,7 +32,7 @@
   ],
   "contact": {
     "email": "disgea0@gmail.com",
-    "page": "https://mapelvader.page.dev"
+    "whatsapp": "hidden"
   }
 }
 
