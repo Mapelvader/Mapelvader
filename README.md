@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Dedi Rohadi",
-  "country": majalengka,
+  "country": majalengka",
   "curently": [
     "web Depelopment and Web automation - RPA - scraper",
 "CI/CD pipeline, Docker Container, Cloud services (AWS & Google), Network Virtualization"
