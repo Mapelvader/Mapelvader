@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Dedi Rohadi",
-  "age": 19,
+  "age": know,
   "curently": [
     "web Depelopment and Web automation - RPA - scraper",
 "CI/CD pipeline, Docker Container, Cloud services (AWS & Google), Network Virtualization"
