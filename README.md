@@ -25,9 +25,9 @@
   ],
   "experience": [
     {
-      "company": "PT SAZUMI CLOUD INC",
-      "position": "Founder and CEO",
-      "description": "Cloud Hosting"
+      "company": "Tripay",
+      "position": "Freelance",
+      "description": "Payment gateway"
     }
   ],
   "contact": {
