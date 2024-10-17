@@ -3,8 +3,8 @@
   "name": "Dedi Rohadi",
   "age": 0,
   "curently": [
-    "web Depelopment and Web automation - RPA - scraper",
-"CI/CD pipeline, Docker Container, Cloud services (AWS & Google), Network Virtualization"
+    "web Depelopment",
+"Web automation - RPA - scraper"
   ],
   "skills": [
     "JavaScript",
