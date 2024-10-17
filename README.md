@@ -2,7 +2,7 @@
 {
   "name": "Dedi Rohadi",
   "age": 0,
-  "curently": [
+  "enthusiast": [
     "web Depelopment",
 "Web automation - RPA - scraper"
   ],
@@ -25,7 +25,7 @@
   ],
   "experience": [
     {
-      "company": "Tripay",
+      "company": "hidden",
       "position": "Freelance",
       "description": "Payment gateway"
     }
