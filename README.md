@@ -1,19 +1,27 @@
 ```json
 {
-  "name": "Viki",
-  "age": 19,
-  "hobbies": [
-    "Reading science fiction novels",
-    "Playing indie games"
+  "name": "Dedi Rohadi",
+  "country": majalengka,
+  "curently": [
+    "web Depelopment and Web automation - RPA - scraper",
+"CI/CD pipeline, Docker Container, Cloud services (AWS & Google), Network Virtualization"
   ],
   "skills": [
-    "Web Development",
-    "Artificial Intelligence",
-    "Data Engineering",
-    "Git",
-    "Cloud Computing",
-    "Database",
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "Go",
+    "Python",
+    "GNU/Linux",
+    "FreeBSD"
+    "Docker Container",
+    "Cloudflare",
+    "Vercel",
     "Operating Systems"
+    "CI/CD pipeline",
+    "Vercel",
+    "Cloud services (AWS & Google)",
+    "Network Virtualization",
   ],
   "experience": [
     {
@@ -23,8 +31,8 @@
     }
   ],
   "contact": {
-    "email": "root@sazumi.moe",
-    "instagram": "https://www.instagram.com/moe.sazumiviki"
+    "email": "disgea0@gmail.com",
+    "page": "https://mapelvader.page.dev"
   }
 }
 
